@@ -7,6 +7,7 @@ gem 'rails', '3.2.16'
 
 group :development do
   gem 'sqlite3'
+  gem 'test-unit', '~> 3.0'
 end
 
 
